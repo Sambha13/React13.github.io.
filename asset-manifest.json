@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sambha13/React13.github.io..git/static/css/main.073c9b0a.css",
+    "main.js": "/Sambha13/React13.github.io..git/static/js/main.ef88667d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Sambha13/React13.github.io..git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Sambha13/React13.github.io..git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sambha13/React13.github.io..git/index.html",
+    "main.073c9b0a.css.map": "/Sambha13/React13.github.io..git/static/css/main.073c9b0a.css.map",
+    "main.ef88667d.js.map": "/Sambha13/React13.github.io..git/static/js/main.ef88667d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Sambha13/React13.github.io..git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ef88667d.js"
+  ]
+}
